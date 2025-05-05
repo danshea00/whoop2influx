@@ -64,3 +64,4 @@ This Python script fetches data from the Whoop API using the password grant meth
         0 */6 * * * /usr/bin/python3.9 /full/path/to/whoop_connect.py >> /full/path/to/whoop_cron.log 2>&1
         ```
         *(Ensure Python path and script path are correct)*# whoop2influx
+# whoop2influx
